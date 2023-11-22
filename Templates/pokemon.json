@@ -1,0 +1,19 @@
+
+{
+    "style": "klokantech-basic",
+    "latitude": #(lat),
+    "longitude": #(lon),
+    "zoom": 15,
+    "width": 500,
+    "height": 250,
+    "scale": 1,
+    "markers": [
+        {
+        "url": "https://cdn-icons-png.flaticon.com/512/2838/2838912.png",
+            "latitude": #(lat),
+            "longitude": #(lon),
+            "width": 50,
+            "height": 50
+        }
+    ]
+}
